@@ -5,7 +5,7 @@ Syntax
 
 `<ol>`사용법
 
-```
+```html
 <ol>
     <li></li>
 </ol>
