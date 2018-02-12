@@ -5,8 +5,7 @@
 <b>this is b tag</b> not b tag<br/>
   
 <b>this is b tag</b> not b tag</code></pre>
-:smile:
-두꺼운 글씨를 표현하고 싶을 땐, 
+`<html>` box를 구성하고 싶다면? :smile:
 ```
 <html>
     <div></div>
