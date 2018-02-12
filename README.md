@@ -2,5 +2,5 @@
 ## detail
 <pre>jj</pre>
 <code>
-    <b>난리났어</b>
+    <b>this is b tag</b> not b tag
 </code>   
